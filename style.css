@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+}h1 {
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    color: greenyellow;
+    background-image: linear-gradient(to right bottom, greenyellow, royalblue);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px;
+    border: 2px solid royalblue;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 0 5px 0 0 royalblue;
+    color: yellowgreen;
+    text-decoration: none;
+    font-size: 25px;
+    color: greenyellow;
+    background-image: linear-gradient(to right bottom, royalblue, lightblue);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+li{
+    font-size: 20px;
+}
